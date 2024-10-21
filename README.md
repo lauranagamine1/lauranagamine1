@@ -2,7 +2,7 @@
 - 👀 I’m interested in Computer Science
 - 🌱 I’m currently learning c++
 - 💞️ I’m looking to collaborate on github
-- 📫 How to reach me (discord)
+- 📫 How to reach me }
 
 <!---
 lauranagamine1/lauranagamine1 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
